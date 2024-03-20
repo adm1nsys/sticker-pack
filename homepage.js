@@ -368,7 +368,7 @@ function getCurrentYear() {
 function updateYear() {
   const currentYear = getCurrentYear();
   var footert = document.createElement("div");
-  footert.textContent = `© Copyright By sticker-pack 2023 - ${currentYear}`;
+  footert.textContent = `© Copyright By sticker-pack 2024 - ${currentYear}`;
 
   footer.appendChild(footert);
 }
