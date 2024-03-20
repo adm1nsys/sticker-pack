@@ -94,17 +94,29 @@ leftBarC0.style.position = "relative";
 leftBarC0.style.zIndex = "999";
 homepage1pageb0.appendChild(leftBarC0);
 const svglogo = `
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250" fill="none">
-  <g clip-path="url(#clip0_1_12)">
-    <path d="M12 10H137L126.244 35.6829C117.102 57.5109 110.07 80.1635 105.244 103.331L101.254 122.48C100.607 125.585 102.977 128.5 106.149 128.5H119C122.314 128.5 125 131.186 125 134.5V165.836C125 180.233 126.619 194.584 129.827 208.619L137 240H12V10Z" fill="white"/>
-    <rect x="6.5" y="6.5" width="237" height="237" rx="27.5" stroke="white" stroke-width="13"/>
-  </g>
-  <defs>
-    <clipPath id="clip0_1_12">
-      <rect width="250" height="250" fill="white"/>
-    </clipPath>
-  </defs>
+<svg width="150" height="100" viewBox="0 0 150 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2" y="2" width="146" height="96" rx="11" fill="white" fill-opacity="0.26" stroke="white" stroke-width="4"/>
+<path d="M110 2H137C143.075 2 148 6.92487 148 13V40H128C118.059 40 110 31.9411 110 22V2Z" fill="white" fill-opacity="0.4" stroke="white" stroke-width="4"/>
+<rect x="4" y="59" width="11" height="5" fill="white"/>
+<rect x="20" y="59" width="11" height="5" fill="white"/>
+<rect x="36" y="59" width="11" height="5" fill="white"/>
+<rect x="52" y="59" width="11" height="5" fill="white"/>
+<rect x="68" y="59" width="11" height="5" fill="white"/>
+<rect x="84" y="59" width="11" height="5" fill="white"/>
+<rect x="100" y="59" width="11" height="5" fill="white"/>
+<rect x="116" y="59" width="11" height="5" fill="white"/>
+<rect x="132" y="59" width="11" height="5" fill="white"/>
+<rect x="15" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="31" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="47" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="63" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="79" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="95" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="111" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="127" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="143" y="59" width="3" height="5" fill="white" fill-opacity="0.17"/>
 </svg>
+
 `;
 const svglogoc = document.createElement('div');
 svglogoc.innerHTML = svglogo;
@@ -135,22 +147,29 @@ leftBarC0.style.position = "relative";
 leftBarC0.style.zIndex = "999";
 homepage1pageb0.appendChild(leftBarC0);
 const svglogo = `
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250" fill="none">
-  <g clip-path="url(#clip0_1_21)">
-    <path d="M0 12C0 5.37258 5.37258 0 12 0H109C115.627 0 121 5.37258 121 12V109C121 115.627 115.627 121 109 121H12C5.37258 121 0 115.627 0 109V12ZM129 12C129 5.37258 134.373 0 141 0H238C244.627 0 250 5.37258 250 12V109C250 115.627 244.627 121 238 121H141C134.373 121 129 115.627 129 109V12ZM141 129C134.373 129 129 134.373 129 141V238C129 244.627 134.373 250 141 250H238C244.627 250 250 244.627 250 238V141C250 134.373 244.627 129 238 129H141ZM0 141C0 134.373 5.37258 129 12 129H109C115.627 129 121 134.373 121 141V238C121 244.627 115.627 250 109 250H12C5.37258 250 0 244.627 0 238V141Z" fill="white"/>
-    <path d="M0 12C0 5.37258 5.37258 0 12 0H109C115.627 0 121 5.37258 121 12V109C121 115.627 115.627 121 109 121H12C5.37258 121 0 115.627 0 109V12ZM129 12C129 5.37258 134.373 0 141 0H238C244.627 0 250 5.37258 250 12V109C250 115.627 244.627 121 238 121H141C134.373 121 129 115.627 129 109V12ZM141 129C134.373 129 129 134.373 129 141V238C129 244.627 134.373 250 141 250H238C244.627 250 250 244.627 250 238V141C250 134.373 244.627 129 238 129H141ZM0 141C0 134.373 5.37258 129 12 129H109C115.627 129 121 134.373 121 141V238C121 244.627 115.627 250 109 250H12C5.37258 250 0 244.627 0 238V141Z" fill="url(#paint0_linear_1_21)" fill-opacity="0.43"/>
-    <path d="M0 12C0 5.37258 5.37258 0 12 0H109C115.627 0 121 5.37258 121 12V109C121 115.627 115.627 121 109 121H12C5.37258 121 0 115.627 0 109V12ZM129 12C129 5.37258 134.373 0 141 0H238C244.627 0 250 5.37258 250 12V109C250 115.627 244.627 121 238 121H141C134.373 121 129 115.627 129 109V12ZM141 129C134.373 129 129 134.373 129 141V238C129 244.627 134.373 250 141 250H238C244.627 250 250 244.627 250 238V141C250 134.373 244.627 129 238 129H141ZM0 141C0 134.373 5.37258 129 12 129H109C115.627 129 121 134.373 121 141V238C121 244.627 115.627 250 109 250H12C5.37258 250 0 244.627 0 238V141Z" stroke="white"/>
-  </g>
-  <defs>
-    <linearGradient id="paint0_linear_1_21" x1="-3.5" y1="250" x2="250" y2="-2.3609e-06" gradientUnits="userSpaceOnUse">
-      <stop/>
-      <stop offset="1" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="clip0_1_21">
-      <rect width="250" height="250" fill="white"/>
-    </clipPath>
-  </defs>
+<svg width="150" height="100" viewBox="0 0 150 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2" y="2" width="146" height="96" rx="11" fill="white" fill-opacity="0.26" stroke="white" stroke-width="4"/>
+<path d="M110 2H137C143.075 2 148 6.92487 148 13V40H128C118.059 40 110 31.9411 110 22V2Z" fill="white" fill-opacity="0.4" stroke="white" stroke-width="4"/>
+<rect x="4" y="59" width="11" height="5" fill="white"/>
+<rect x="20" y="59" width="11" height="5" fill="white"/>
+<rect x="36" y="59" width="11" height="5" fill="white"/>
+<rect x="52" y="59" width="11" height="5" fill="white"/>
+<rect x="68" y="59" width="11" height="5" fill="white"/>
+<rect x="84" y="59" width="11" height="5" fill="white"/>
+<rect x="100" y="59" width="11" height="5" fill="white"/>
+<rect x="116" y="59" width="11" height="5" fill="white"/>
+<rect x="132" y="59" width="11" height="5" fill="white"/>
+<rect x="15" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="31" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="47" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="63" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="79" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="95" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="111" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="127" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="143" y="59" width="3" height="5" fill="white" fill-opacity="0.17"/>
 </svg>
+
 `;
 const svglogoc = document.createElement('div');
 svglogoc.innerHTML = svglogo;
@@ -180,22 +199,29 @@ leftBarC0.style.position = "relative";
 leftBarC0.style.zIndex = "999";
 homepage1pageb0.appendChild(leftBarC0);
 const svglogo = `
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250" fill="none">
-  <g clip-path="url(#clip0_1_21)">
-    <path d="M0 12C0 5.37258 5.37258 0 12 0H109C115.627 0 121 5.37258 121 12V109C121 115.627 115.627 121 109 121H12C5.37258 121 0 115.627 0 109V12ZM129 12C129 5.37258 134.373 0 141 0H238C244.627 0 250 5.37258 250 12V109C250 115.627 244.627 121 238 121H141C134.373 121 129 115.627 129 109V12ZM141 129C134.373 129 129 134.373 129 141V238C129 244.627 134.373 250 141 250H238C244.627 250 250 244.627 250 238V141C250 134.373 244.627 129 238 129H141ZM0 141C0 134.373 5.37258 129 12 129H109C115.627 129 121 134.373 121 141V238C121 244.627 115.627 250 109 250H12C5.37258 250 0 244.627 0 238V141Z" fill="white"/>
-    <path d="M0 12C0 5.37258 5.37258 0 12 0H109C115.627 0 121 5.37258 121 12V109C121 115.627 115.627 121 109 121H12C5.37258 121 0 115.627 0 109V12ZM129 12C129 5.37258 134.373 0 141 0H238C244.627 0 250 5.37258 250 12V109C250 115.627 244.627 121 238 121H141C134.373 121 129 115.627 129 109V12ZM141 129C134.373 129 129 134.373 129 141V238C129 244.627 134.373 250 141 250H238C244.627 250 250 244.627 250 238V141C250 134.373 244.627 129 238 129H141ZM0 141C0 134.373 5.37258 129 12 129H109C115.627 129 121 134.373 121 141V238C121 244.627 115.627 250 109 250H12C5.37258 250 0 244.627 0 238V141Z" fill="url(#paint0_linear_1_21)" fill-opacity="0.43"/>
-    <path d="M0 12C0 5.37258 5.37258 0 12 0H109C115.627 0 121 5.37258 121 12V109C121 115.627 115.627 121 109 121H12C5.37258 121 0 115.627 0 109V12ZM129 12C129 5.37258 134.373 0 141 0H238C244.627 0 250 5.37258 250 12V109C250 115.627 244.627 121 238 121H141C134.373 121 129 115.627 129 109V12ZM141 129C134.373 129 129 134.373 129 141V238C129 244.627 134.373 250 141 250H238C244.627 250 250 244.627 250 238V141C250 134.373 244.627 129 238 129H141ZM0 141C0 134.373 5.37258 129 12 129H109C115.627 129 121 134.373 121 141V238C121 244.627 115.627 250 109 250H12C5.37258 250 0 244.627 0 238V141Z" stroke="white"/>
-  </g>
-  <defs>
-    <linearGradient id="paint0_linear_1_21" x1="-3.5" y1="250" x2="250" y2="-2.3609e-06" gradientUnits="userSpaceOnUse">
-      <stop/>
-      <stop offset="1" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="clip0_1_21">
-      <rect width="250" height="250" fill="white"/>
-    </clipPath>
-  </defs>
+<svg width="150" height="100" viewBox="0 0 150 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2" y="2" width="146" height="96" rx="11" fill="white" fill-opacity="0.26" stroke="white" stroke-width="4"/>
+<path d="M110 2H137C143.075 2 148 6.92487 148 13V40H128C118.059 40 110 31.9411 110 22V2Z" fill="white" fill-opacity="0.4" stroke="white" stroke-width="4"/>
+<rect x="4" y="59" width="11" height="5" fill="white"/>
+<rect x="20" y="59" width="11" height="5" fill="white"/>
+<rect x="36" y="59" width="11" height="5" fill="white"/>
+<rect x="52" y="59" width="11" height="5" fill="white"/>
+<rect x="68" y="59" width="11" height="5" fill="white"/>
+<rect x="84" y="59" width="11" height="5" fill="white"/>
+<rect x="100" y="59" width="11" height="5" fill="white"/>
+<rect x="116" y="59" width="11" height="5" fill="white"/>
+<rect x="132" y="59" width="11" height="5" fill="white"/>
+<rect x="15" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="31" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="47" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="63" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="79" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="95" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="111" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="127" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="143" y="59" width="3" height="5" fill="white" fill-opacity="0.17"/>
 </svg>
+
 `;
 const svglogoc = document.createElement('div');
 svglogoc.innerHTML = svglogo;
@@ -226,22 +252,29 @@ leftBarC0.style.position = "relative";
 leftBarC0.style.zIndex = "999";
 homepage1pageb0.appendChild(leftBarC0);
 const svglogo = `
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250" fill="none">
-  <g clip-path="url(#clip0_1_21)">
-    <path d="M0 12C0 5.37258 5.37258 0 12 0H109C115.627 0 121 5.37258 121 12V109C121 115.627 115.627 121 109 121H12C5.37258 121 0 115.627 0 109V12ZM129 12C129 5.37258 134.373 0 141 0H238C244.627 0 250 5.37258 250 12V109C250 115.627 244.627 121 238 121H141C134.373 121 129 115.627 129 109V12ZM141 129C134.373 129 129 134.373 129 141V238C129 244.627 134.373 250 141 250H238C244.627 250 250 244.627 250 238V141C250 134.373 244.627 129 238 129H141ZM0 141C0 134.373 5.37258 129 12 129H109C115.627 129 121 134.373 121 141V238C121 244.627 115.627 250 109 250H12C5.37258 250 0 244.627 0 238V141Z" fill="white"/>
-    <path d="M0 12C0 5.37258 5.37258 0 12 0H109C115.627 0 121 5.37258 121 12V109C121 115.627 115.627 121 109 121H12C5.37258 121 0 115.627 0 109V12ZM129 12C129 5.37258 134.373 0 141 0H238C244.627 0 250 5.37258 250 12V109C250 115.627 244.627 121 238 121H141C134.373 121 129 115.627 129 109V12ZM141 129C134.373 129 129 134.373 129 141V238C129 244.627 134.373 250 141 250H238C244.627 250 250 244.627 250 238V141C250 134.373 244.627 129 238 129H141ZM0 141C0 134.373 5.37258 129 12 129H109C115.627 129 121 134.373 121 141V238C121 244.627 115.627 250 109 250H12C5.37258 250 0 244.627 0 238V141Z" fill="url(#paint0_linear_1_21)" fill-opacity="0.43"/>
-    <path d="M0 12C0 5.37258 5.37258 0 12 0H109C115.627 0 121 5.37258 121 12V109C121 115.627 115.627 121 109 121H12C5.37258 121 0 115.627 0 109V12ZM129 12C129 5.37258 134.373 0 141 0H238C244.627 0 250 5.37258 250 12V109C250 115.627 244.627 121 238 121H141C134.373 121 129 115.627 129 109V12ZM141 129C134.373 129 129 134.373 129 141V238C129 244.627 134.373 250 141 250H238C244.627 250 250 244.627 250 238V141C250 134.373 244.627 129 238 129H141ZM0 141C0 134.373 5.37258 129 12 129H109C115.627 129 121 134.373 121 141V238C121 244.627 115.627 250 109 250H12C5.37258 250 0 244.627 0 238V141Z" stroke="white"/>
-  </g>
-  <defs>
-    <linearGradient id="paint0_linear_1_21" x1="-3.5" y1="250" x2="250" y2="-2.3609e-06" gradientUnits="userSpaceOnUse">
-      <stop/>
-      <stop offset="1" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="clip0_1_21">
-      <rect width="250" height="250" fill="white"/>
-    </clipPath>
-  </defs>
+<svg width="150" height="100" viewBox="0 0 150 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2" y="2" width="146" height="96" rx="11" fill="white" fill-opacity="0.26" stroke="white" stroke-width="4"/>
+<path d="M110 2H137C143.075 2 148 6.92487 148 13V40H128C118.059 40 110 31.9411 110 22V2Z" fill="white" fill-opacity="0.4" stroke="white" stroke-width="4"/>
+<rect x="4" y="59" width="11" height="5" fill="white"/>
+<rect x="20" y="59" width="11" height="5" fill="white"/>
+<rect x="36" y="59" width="11" height="5" fill="white"/>
+<rect x="52" y="59" width="11" height="5" fill="white"/>
+<rect x="68" y="59" width="11" height="5" fill="white"/>
+<rect x="84" y="59" width="11" height="5" fill="white"/>
+<rect x="100" y="59" width="11" height="5" fill="white"/>
+<rect x="116" y="59" width="11" height="5" fill="white"/>
+<rect x="132" y="59" width="11" height="5" fill="white"/>
+<rect x="15" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="31" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="47" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="63" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="79" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="95" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="111" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="127" y="59" width="5" height="5" fill="white" fill-opacity="0.17"/>
+<rect x="143" y="59" width="3" height="5" fill="white" fill-opacity="0.17"/>
 </svg>
+
 `;
 const svglogoc = document.createElement('div');
 svglogoc.innerHTML = svglogo;
